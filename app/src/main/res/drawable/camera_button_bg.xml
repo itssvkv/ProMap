@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><shape xmlns:android="http://schemas.android.com/apk/res/android">    <solid android:color="@color/cameraButtonBackground" />    <corners android:radius="10dp"/>    <stroke android:color="@color/cameraButtonBackgroundStroke" android:width="2dp"/></shape>

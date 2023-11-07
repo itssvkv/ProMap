@@ -14,4 +14,8 @@
     <string name="zoom_level"><![CDATA[Zoom Level (1 -> 20)]]></string>
     <string name="min_level">Min Level</string>
     <string name="max_level">Max Level</string>
+    <string name="move_to_berlin">move to berlin</string>
+    <string name="move_to_tokyo_bounds">move to tokyo bounds</string>
+    <string name="move_to_denver_and_restrict">move to denver and restrict</string>
+    <string name="animate_to_nairobi">animate to nairobi</string>
 </resources>
