@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="mapTypeBg">#682196F3</color>
     <color name="mapTypeBgStroke">#1B224A</color>
+    <color name="cameraButtonBackground">#009688</color>
+    <color name="cameraButtonBackgroundStroke">#03A9F4</color>
 </resources>
