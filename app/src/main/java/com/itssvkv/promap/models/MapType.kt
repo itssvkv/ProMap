@@ -1,0 +1,1 @@
+package com.itssvkv.promap.modelsdata class MapType(    val id: Int,    val name: String,    val isSelected:Boolean = false)

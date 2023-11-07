@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pro Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="controls_and_gestures">Controls and Gestures</string>
+    <string name="zoom_controls">Zoom Controls</string>
+    <string name="zoom_gestures">Zoom Gestures</string>
+    <string name="scroll_gestures">Scroll Gestures</string>
+    <string name="rotate_gestures">Rotate Gestures</string>
+    <string name="compass">Compass</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="map_type">Map Type</string>
+    <string name="style">Map Style</string>
+    <string name="show_buildings">Show Buildings</string>
+    <string name="zoom_level"><![CDATA[Zoom Level (1 -> 20)]]></string>
+    <string name="min_level">Min Level</string>
+    <string name="max_level">Max Level</string>
+</resources>
