@@ -18,4 +18,18 @@
     <string name="move_to_tokyo_bounds">move to tokyo bounds</string>
     <string name="move_to_denver_and_restrict">move to denver and restrict</string>
     <string name="animate_to_nairobi">animate to nairobi</string>
+    <string name="enable_marker_drag">Enable Marker Drag</string>
+    <string name="enable_custom_info_window">Enable Custom Info Window</string>
+    <string name="add_default_marker_on_helsinki">Add default marker on helsinki</string>
+    <string name="remove_all_markers">remove all markers</string>
+    <string name="add_custom_marker_on_gaza_vector">add custom marker on gaza (vector)</string>
+    <string name="add_custom_marker_on_damietta_bitmap">add custom marker on damietta(bitmap)</string>
+
+
+    <string name="country_name">Country Name : %1$s</string>
+    <string name="country_code">Country Code : %1$s</string>
+    <string name="postal_code">Postal Code : %1$s</string>
+    <string name="admin_area">Admin Area : %1$s</string>
+    <string name="latitude">Latitude : %1$s</string>
+    <string name="longitude">Longitude : %1$s</string>
 </resources>
